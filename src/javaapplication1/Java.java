@@ -14,5 +14,5 @@ package javaapplication1;
 /*01010101*/
 /*000000*/
 public class Java {
-    
+    //ok
 }
