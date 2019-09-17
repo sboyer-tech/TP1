@@ -12,6 +12,7 @@ package javaapplication1;
 
 /* Commentaire 1 */
 /*01010101*/
+/*000000*/
 public class Java {
     
 }
